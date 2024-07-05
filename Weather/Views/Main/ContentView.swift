@@ -15,4 +15,5 @@ struct ContentView: View {
 
 #Preview {
     ContentView()
+        .preferredColorScheme(/*@START_MENU_TOKEN@*/.dark/*@END_MENU_TOKEN@*/)
 }
